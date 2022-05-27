@@ -1,0 +1,11 @@
+/Users/maximosantoro/Documents/public-repos/rust-intro/guessing_game/target/rls/debug/deps/getrandom-a7d1117c9712c996.rmeta: /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error_impls.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/macos.rs
+
+/Users/maximosantoro/Documents/public-repos/rust-intro/guessing_game/target/rls/debug/deps/getrandom-a7d1117c9712c996.d: /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error_impls.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs /Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/macos.rs
+
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error_impls.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs:
+/Users/maximosantoro/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/macos.rs:
